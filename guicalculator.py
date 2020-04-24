@@ -8,7 +8,7 @@ root.geometry("300x400")
 root.resizable(0,0)
 root.title("Calculator")
 
-val = ""
+val = "0"
 A = 0
 operator = ""
 
